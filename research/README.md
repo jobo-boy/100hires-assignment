@@ -11,8 +11,13 @@ Identify patterns, frameworks, and content strategies used by top practitioners.
 - Initial expert list compiled
 - Repository structure created
 
-## Next Steps
-- Collect recent LinkedIn posts
-- Analyze recurring themes
-- Build actionable insights
-- Create growth playbook
+## Repository Structure
+- sources.md : expert list and rationale
+- linkedin-posts/ : expert content analysis
+- insights.md : summarized findings and patterns
+
+## Current Status
+- 10 experts selected
+- Expert profiles documented
+- Initial content patterns identified
+- Insights synthesized from research
